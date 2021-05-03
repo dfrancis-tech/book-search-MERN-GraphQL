@@ -39,10 +39,6 @@ const typeDefs = gql`
     removeBook(bookId: String!): User
   }
 
-  type Auth {
-    token: ID!
-    user: User
-  }
 `;
 
 // export the typeDefs
