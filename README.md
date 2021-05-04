@@ -1,4 +1,4 @@
-#  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Search Engine: Google Books
+#  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Google Books Search
 
 [Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Built With](#Built-With) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria)  &nbsp; &nbsp; [Code Review](#Code-Review)   
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
- Search Engine: Google Books website is a web application where users can search for books, create an account, save their favourite books and delete saved books.
+ Google Books Search website is a web application where users can search for books, create an account, save their favourite books and delete saved books.
 
 ## Introduction
  
