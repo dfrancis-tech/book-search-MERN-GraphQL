@@ -16,6 +16,11 @@
 
 Visit [website](https://intense-shore-78978.herokuapp.com/) and enjoy reading!
 
+## Mock-Up
+The following image shows the web application's appearance and functionality.  
+
+![Mock-up image](client/public/mock-up.gif "Mock-up image")
+
 ## Built With
 * [MongoDB](https://www.mongodb.com/)
 * [Express.js](https://expressjs.com/)
@@ -86,11 +91,6 @@ Visit [website](https://intense-shore-78978.herokuapp.com/) and enjoy reading!
     WHEN I click on the Logout button
     THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button   
 </details>
-
-## Mock-Up
-The following image shows the web application's appearance and functionality.  
-
-![Mock-up image](client/public/mock-up.gif "Mock-up image")
 
 ## Code Review
 
