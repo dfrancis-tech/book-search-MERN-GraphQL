@@ -90,7 +90,7 @@ Visit [website](https://intense-shore-78978.herokuapp.com/) and enjoy reading!
 ## Mock-Up
 The following image shows the web application's appearance and functionality.  
 
-![Mock-up image](client/public/assets/images/mock-up.gif "Mock-up image")
+![Mock-up image](client/public/mock-up.gif "Mock-up image")
 
 ## Code Review
 
